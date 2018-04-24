@@ -17,126 +17,126 @@ For SQL queries:
 
 For Cypher queries:
 
-<----- Neo4j ----->
-Depth 1 runtime: 4441.0 ms
-Depth 2 runtime: 304.0 ms
-Depth 3 runtime: 285.0 ms
-Depth 4 runtime: 360.0 ms
+<----- Neo4j ----->  
+Depth 1 runtime: 4441.0 ms  
+Depth 2 runtime: 304.0 ms  
+Depth 3 runtime: 285.0 ms  
+Depth 4 runtime: 360.0 ms  
 Depth 5 runtime: 505.0 ms  
-<----- Neo4j ----->
-Depth 1 runtime: 65.0 ms
-Depth 2 runtime: 62.0 ms
-Depth 3 runtime: 69.0 ms
-Depth 4 runtime: 73.0 ms
+<----- Neo4j ----->  
+Depth 1 runtime: 65.0 ms  
+Depth 2 runtime: 62.0 ms  
+Depth 3 runtime: 69.0 ms  
+Depth 4 runtime: 73.0 ms  
 Depth 5 runtime: 148.0 ms  
-<----- Neo4j ----->
-Depth 1 runtime: 55.0 ms
-Depth 2 runtime: 58.0 ms
-Depth 3 runtime: 60.0 ms
-Depth 4 runtime: 61.0 ms
+<----- Neo4j ----->  
+Depth 1 runtime: 55.0 ms  
+Depth 2 runtime: 58.0 ms  
+Depth 3 runtime: 60.0 ms  
+Depth 4 runtime: 61.0 ms  
 Depth 5 runtime: 75.0 ms  
-<----- Neo4j ----->
-Depth 1 runtime: 44.0 ms
-Depth 2 runtime: 50.0 ms
-Depth 3 runtime: 52.0 ms
-Depth 4 runtime: 100.0 ms
-Depth 5 runtime: 138.0 ms
-<----- Neo4j ----->
-Depth 1 runtime: 60.0 ms
-Depth 2 runtime: 88.0 ms
-Depth 3 runtime: 51.0 ms
-Depth 4 runtime: 70.0 ms
-Depth 5 runtime: 122.0 ms
-<----- Neo4j ----->
-Depth 1 runtime: 56.0 ms
-Depth 2 runtime: 41.0 ms
-Depth 3 runtime: 58.0 ms
-Depth 4 runtime: 72.0 ms
-Depth 5 runtime: 105.0 ms
-<----- Neo4j ----->
-Depth 1 runtime: 49.0 ms
-Depth 2 runtime: 48.0 ms
-Depth 3 runtime: 53.0 ms
-Depth 4 runtime: 61.0 ms
-Depth 5 runtime: 192.0 ms
-<----- Neo4j ----->
-Depth 1 runtime: 47.0 ms
-Depth 2 runtime: 72.0 ms
-Depth 3 runtime: 68.0 ms
-Depth 4 runtime: 68.0 ms
-Depth 5 runtime: 88.0 ms
-<----- Neo4j ----->
-Depth 1 runtime: 45.0 ms
-Depth 2 runtime: 42.0 ms
-Depth 3 runtime: 50.0 ms
-Depth 4 runtime: 39.0 ms
-Depth 5 runtime: 62.0 ms
-<----- Neo4j ----->
-Depth 1 runtime: 45.0 ms
-Depth 2 runtime: 51.0 ms
-Depth 3 runtime: 57.0 ms
-Depth 4 runtime: 47.0 ms
-Depth 5 runtime: 87.0 ms
-<----- Neo4j ----->
-Depth 1 runtime: 49.0 ms
-Depth 2 runtime: 52.0 ms
-Depth 3 runtime: 50.0 ms
-Depth 4 runtime: 67.0 ms
-Depth 5 runtime: 60.0 ms
-<----- Neo4j ----->
-Depth 1 runtime: 48.0 ms
-Depth 2 runtime: 54.0 ms
-Depth 3 runtime: 57.0 ms
-Depth 4 runtime: 55.0 ms
-Depth 5 runtime: 120.0 ms
-<----- Neo4j ----->
-Depth 1 runtime: 46.0 ms
-Depth 2 runtime: 56.0 ms
-Depth 3 runtime: 45.0 ms
-Depth 4 runtime: 58.0 ms
-Depth 5 runtime: 59.0 ms
-<----- Neo4j ----->
-Depth 1 runtime: 51.0 ms
-Depth 2 runtime: 46.0 ms
-Depth 3 runtime: 41.0 ms
-Depth 4 runtime: 50.0 ms
-Depth 5 runtime: 73.0 ms
-<----- Neo4j ----->
-Depth 1 runtime: 34.0 ms
-Depth 2 runtime: 46.0 ms
-Depth 3 runtime: 46.0 ms
-Depth 4 runtime: 72.0 ms
-Depth 5 runtime: 78.0 ms
-<----- Neo4j ----->
-Depth 1 runtime: 48.0 ms
-Depth 2 runtime: 54.0 ms
-Depth 3 runtime: 56.0 ms
-Depth 4 runtime: 70.0 ms
-Depth 5 runtime: 82.0 ms
-<----- Neo4j ----->
-Depth 1 runtime: 48.0 ms
-Depth 2 runtime: 46.0 ms
-Depth 3 runtime: 91.0 ms
-Depth 4 runtime: 41.0 ms
-Depth 5 runtime: 47.0 ms
-<----- Neo4j ----->
-Depth 1 runtime: 46.0 ms
-Depth 2 runtime: 45.0 ms
-Depth 3 runtime: 56.0 ms
-Depth 4 runtime: 69.0 ms
-Depth 5 runtime: 40.0 ms
-<----- Neo4j ----->
-Depth 1 runtime: 44.0 ms
-Depth 2 runtime: 46.0 ms
-Depth 3 runtime: 47.0 ms
-Depth 4 runtime: 69.0 ms
-Depth 5 runtime: 106.0 ms
-<----- Neo4j ----->
-Depth 1 runtime: 34.0 ms
-Depth 2 runtime: 36.0 ms
-Depth 3 runtime: 49.0 ms
-Depth 4 runtime: 54.0 ms
-Depth 5 runtime: 63.0 ms
+<----- Neo4j ----->  
+Depth 1 runtime: 44.0 ms  
+Depth 2 runtime: 50.0 ms  
+Depth 3 runtime: 52.0 ms  
+Depth 4 runtime: 100.0 ms  
+Depth 5 runtime: 138.0 ms  
+<----- Neo4j ----->  
+Depth 1 runtime: 60.0 ms  
+Depth 2 runtime: 88.0 ms  
+Depth 3 runtime: 51.0 ms  
+Depth 4 runtime: 70.0 ms  
+Depth 5 runtime: 122.0 ms  
+<----- Neo4j ----->  
+Depth 1 runtime: 56.0 ms  
+Depth 2 runtime: 41.0 ms  
+Depth 3 runtime: 58.0 ms  
+Depth 4 runtime: 72.0 ms  
+Depth 5 runtime: 105.0 ms  
+<----- Neo4j ----->  
+Depth 1 runtime: 49.0 ms  
+Depth 2 runtime: 48.0 ms  
+Depth 3 runtime: 53.0 ms  
+Depth 4 runtime: 61.0 ms  
+Depth 5 runtime: 192.0 ms  
+<----- Neo4j ----->  
+Depth 1 runtime: 47.0 ms  
+Depth 2 runtime: 72.0 ms  
+Depth 3 runtime: 68.0 ms  
+Depth 4 runtime: 68.0 ms  
+Depth 5 runtime: 88.0 ms  
+<----- Neo4j ----->  
+Depth 1 runtime: 45.0 ms  
+Depth 2 runtime: 42.0 ms  
+Depth 3 runtime: 50.0 ms  
+Depth 4 runtime: 39.0 ms  
+Depth 5 runtime: 62.0 ms  
+<----- Neo4j ----->  
+Depth 1 runtime: 45.0 ms  
+Depth 2 runtime: 51.0 ms  
+Depth 3 runtime: 57.0 ms  
+Depth 4 runtime: 47.0 ms  
+Depth 5 runtime: 87.0 ms  
+<----- Neo4j ----->  
+Depth 1 runtime: 49.0 ms  
+Depth 2 runtime: 52.0 ms  
+Depth 3 runtime: 50.0 ms  
+Depth 4 runtime: 67.0 ms  
+Depth 5 runtime: 60.0 ms  
+<----- Neo4j ----->  
+Depth 1 runtime: 48.0 ms  
+Depth 2 runtime: 54.0 ms  
+Depth 3 runtime: 57.0 ms  
+Depth 4 runtime: 55.0 ms  
+Depth 5 runtime: 120.0 ms  
+<----- Neo4j ----->  
+Depth 1 runtime: 46.0 ms  
+Depth 2 runtime: 56.0 ms  
+Depth 3 runtime: 45.0 ms  
+Depth 4 runtime: 58.0 ms  
+Depth 5 runtime: 59.0 ms  
+<----- Neo4j ----->  
+Depth 1 runtime: 51.0 ms  
+Depth 2 runtime: 46.0 ms  
+Depth 3 runtime: 41.0 ms  
+Depth 4 runtime: 50.0 ms  
+Depth 5 runtime: 73.0 ms  
+<----- Neo4j ----->  
+Depth 1 runtime: 34.0 ms  
+Depth 2 runtime: 46.0 ms  
+Depth 3 runtime: 46.0 ms  
+Depth 4 runtime: 72.0 ms  
+Depth 5 runtime: 78.0 ms  
+<----- Neo4j ----->  
+Depth 1 runtime: 48.0 ms  
+Depth 2 runtime: 54.0 ms  
+Depth 3 runtime: 56.0 ms  
+Depth 4 runtime: 70.0 ms  
+Depth 5 runtime: 82.0 ms  
+<----- Neo4j ----->  
+Depth 1 runtime: 48.0 ms  
+Depth 2 runtime: 46.0 ms  
+Depth 3 runtime: 91.0 ms  
+Depth 4 runtime: 41.0 ms  
+Depth 5 runtime: 47.0 ms  
+<----- Neo4j ----->  
+Depth 1 runtime: 46.0 ms  
+Depth 2 runtime: 45.0 ms  
+Depth 3 runtime: 56.0 ms  
+Depth 4 runtime: 69.0 ms  
+Depth 5 runtime: 40.0 ms  
+<----- Neo4j ----->  
+Depth 1 runtime: 44.0 ms  
+Depth 2 runtime: 46.0 ms  
+Depth 3 runtime: 47.0 ms  
+Depth 4 runtime: 69.0 ms  
+Depth 5 runtime: 106.0 ms  
+<----- Neo4j ----->  
+Depth 1 runtime: 34.0 ms  
+Depth 2 runtime: 36.0 ms  
+Depth 3 runtime: 49.0 ms  
+Depth 4 runtime: 54.0 ms  
+Depth 5 runtime: 63.0 ms  
 
 <----- Average ----->
 Average time depth 1: 267.75 ms
