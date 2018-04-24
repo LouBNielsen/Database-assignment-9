@@ -7,7 +7,7 @@ The SQL database name is 'Neo4j' (yes, mistake) and the table names is 't_user' 
 The column names for the 't_user' is 'id', 'name', 'job' and 'birthday'.
 The column names for the 't_endorsments' is 'source_node_id' and 'target_node_id'.
 
-3. I have constructed Cypher and SQL queries - those you can see ind the Java project folder:
+3. I have constructed Cypher and SQL queries - those you can see ind the Java project folder:  
 For Cypher queries: 
 For SQL queries:
 
@@ -22,19 +22,19 @@ Depth 1 runtime: 4441.0 ms
 Depth 2 runtime: 304.0 ms
 Depth 3 runtime: 285.0 ms
 Depth 4 runtime: 360.0 ms
-Depth 5 runtime: 505.0 ms
+Depth 5 runtime: 505.0 ms  
 <----- Neo4j ----->
 Depth 1 runtime: 65.0 ms
 Depth 2 runtime: 62.0 ms
 Depth 3 runtime: 69.0 ms
 Depth 4 runtime: 73.0 ms
-Depth 5 runtime: 148.0 ms
+Depth 5 runtime: 148.0 ms  
 <----- Neo4j ----->
 Depth 1 runtime: 55.0 ms
 Depth 2 runtime: 58.0 ms
 Depth 3 runtime: 60.0 ms
 Depth 4 runtime: 61.0 ms
-Depth 5 runtime: 75.0 ms
+Depth 5 runtime: 75.0 ms  
 <----- Neo4j ----->
 Depth 1 runtime: 44.0 ms
 Depth 2 runtime: 50.0 ms
