@@ -138,30 +138,30 @@ Depth 3 runtime: 49.0 ms
 Depth 4 runtime: 54.0 ms  
 Depth 5 runtime: 63.0 ms  
 
-<----- Average ----->
-Average time depth 1: 267.75 ms
-<----- Median ----->
-Median time depth 1: 72.0 ms 
+<----- Average ----->  
+Average time depth 1: 267.75 ms  
+<----- Median ----->  
+Median time depth 1: 72.0 ms   
 
-<----- Average ----->
-Average time depth 2: 64.85 ms
-<----- Median ----->
-Median time depth 2: 76.0 ms 
+<----- Average ----->  
+Average time depth 2: 64.85 ms  
+<----- Median ----->  
+Median time depth 2: 76.0 ms   
 
-<----- Average ----->
-Average time depth 3: 67.05 ms
-<----- Median ----->
-Median time depth 3: 81.0 ms 
+<----- Average ----->  
+Average time depth 3: 67.05 ms  
+<----- Median ----->  
+Median time depth 3: 81.0 ms   
 
-<----- Average ----->
-Average time depth 4: 77.8 ms
-<----- Median ----->
-Median time depth 4: 101.5 ms 
+<----- Average ----->  
+Average time depth 4: 77.8 ms  
+<----- Median ----->  
+Median time depth 4: 101.5 ms   
 
-<----- Average ----->
-Average time depth 5: 112.5 ms
-<----- Median ----->
-Median time depth 5: 126.0 ms 
+<----- Average ----->  
+Average time depth 5: 112.5 ms  
+<----- Median ----->  
+Median time depth 5: 126.0 ms   
 
 For SQL queries:
 
