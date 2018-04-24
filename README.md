@@ -4,10 +4,10 @@
 2. I could not import the two major csv files, so instead I have imported data from the two small csv files into the Neo4j and SQL database.
 
 The SQL database name is 'Neo4j' (yes, mistake) and the table names is 't_user' and 't_endorsments' (another small mistake, should have been 't_endorsement').
-The column names for the 't_user' is 'id', 'name', 'job' and 'birthday'.
-The column names for the 't_endorsments' is 'source_node_id' and 'target_node_id'.
+The column names for the 't_user' is 'id', 'name', 'job' and 'birthday'.  
+The column names for the 't_endorsments' is 'source_node_id' and 'target_node_id'.  
 
-3. I have constructed Cypher and SQL queries - those you can see ind the Java project folder:  
+3. I have constructed Cypher and SQL queries - those you can see ind the Java project folder:    
 For Cypher queries: 
 For SQL queries:
 
@@ -165,11 +165,11 @@ Median time depth 5: 126.0 ms
 
 For SQL queries:
 
-<----- MySQL ----->
-Depth 1 runtime: ms 3489.0
-Depth 2 runtime: ms 128.0
-Depth 3 runtime: ms 887.0
-Depth 4 runtime: ms 9792.0
+<----- MySQL ----->  
+Depth 1 runtime: ms 3489.0  
+Depth 2 runtime: ms 128.0  
+Depth 3 runtime: ms 887.0  
+Depth 4 runtime: ms 9792.0  
 
 And then..... nothing.. It's takes too much time...
 And to answer the two questions "Give an explanation of the differences in your time measurements" and
